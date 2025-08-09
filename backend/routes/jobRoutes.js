@@ -1,4 +1,3 @@
-// routes/jobRoutes.js
 import express from 'express';
 import {
   getJobs,
@@ -11,12 +10,11 @@ const router = express.Router();
 
 import { protect } from '../middlewares/authMiddleware.js';
 
-router.get('/', protect,getJobs); // public
+router.get('/', protect,getJobs); 
 
-router.post('/', protect, addJob); // only logged-in users can post
+router.post('/', protect, addJob); 
+router.put('/:id', protect, updateJob); 
 
-router.put('/:id', protect, updateJob); // only logged-in users can update
-
-router.delete('/:id', protect, deleteJob); // only logged-in users can delete
+router.delete('/:id', protect, deleteJob); 
 
 export default router;
