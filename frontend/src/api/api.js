@@ -1,5 +1,5 @@
 
-const API_BASE="https://job-board-wbf2.onrender.com/api"
+const API_BASE='https://job-board-wbf2.onrender.com/api';
 const getToken = () => localStorage.getItem("token");
 
 
