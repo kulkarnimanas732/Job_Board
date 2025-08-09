@@ -83,23 +83,20 @@ The app will be available at:
 
 ## 📸 Screenshots
 
-### 1️⃣ Job Listings Page
-
-![Job Listings](JobBoard/List.png)
-
-### 2️⃣ Add Job Form
-
-![Add Job](JobBoard/Add.png)
-
-### 3️⃣ Edit Job Form
-
-![Edit Job](JobBoard/edit.png)
-
-### 4️⃣ Login Page
+### 1️⃣ Login Page
 ![Login](JobBoard/Login.png)
 
-### 5️⃣ Signup Page
-1[Signup](JobBoard/Signup.png)
+### 2️⃣ Signup Page
+![Signup](JobBoard/Signup.png)
+
+### 3️⃣ Add Job Form
+![Add Job](JobBoard/Add.png)
+
+### 4️⃣  Job Listings Page
+![Job Listings](JobBoard/List.png)
+
+### 5️⃣ Edit Job Form
+![Edit Job](JobBoard/edit.png)
 
 ---
 
